@@ -1,0 +1,4 @@
+name,biomass_flow,moisture,conversion_efficiency,energy_consumption,electricity_co2_factor
+Wheat straw,1000,0.15,0.32,520,0.45
+Corn stover,1200,0.20,0.38,580,0.42
+Wood chips,900,0.35,0.35,500,0.40
